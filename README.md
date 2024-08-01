@@ -4,6 +4,8 @@ Hi, I'm Ahmed Ali! Founder of Data X, where we aim to help you and your business
 
 ---
 
+# My Tableau Public Link
+https://public.tableau.com/app/profile/ahmed.ali5268/vizzes
 # Tableau Projects Repository
 Welcome to the Tableau Projects repository! This comprehensive collection showcases a wide array of interactive and visually engaging dashboards created using Tableau. The repository includes a diverse range of projects that highlight data visualization, business intelligence, and data storytelling. Each project demonstrates Tableau's powerful features, such as dynamic filters, custom visualizations, and advanced analytics. Explore various types of Tableau projects, including:
 
